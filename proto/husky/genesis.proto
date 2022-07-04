@@ -1,0 +1,12 @@
+syntax = "proto3";
+package tonytran1307.husky.husky;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/tonytran1307/husky/x/husky/types";
+
+// GenesisState defines the husky module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+    // this line is used by starport scaffolding # ibc/genesis/proto
+}
